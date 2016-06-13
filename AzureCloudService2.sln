@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "AzureCloudService2", "AzureCloudService2\AzureCloudService2.ccproj", "{C0810F85-2DBD-46A6-8C57-43E61C7350FD}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "WebRole1", "WebRole1\WebRole1.pyproj", "{B9488430-F2E8-454A-AF65-AED8FD6786A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0810F85-2DBD-46A6-8C57-43E61C7350FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0810F85-2DBD-46A6-8C57-43E61C7350FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0810F85-2DBD-46A6-8C57-43E61C7350FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0810F85-2DBD-46A6-8C57-43E61C7350FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9488430-F2E8-454A-AF65-AED8FD6786A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9488430-F2E8-454A-AF65-AED8FD6786A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9488430-F2E8-454A-AF65-AED8FD6786A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9488430-F2E8-454A-AF65-AED8FD6786A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
